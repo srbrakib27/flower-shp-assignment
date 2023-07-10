@@ -1,0 +1,46 @@
+
+.banner{
+   display: flex;
+   justify-content:space-between;
+   width: 1800px;
+   height: 850px;
+   background-color: rgba(229, 84, 115, 0.10);
+
+}
+.banner-contend{
+
+display: flex;
+justify-content: space-between;
+
+
+
+}
+
+.banner-elemant{
+
+  align-items: center;
+  margin: 200px 50px 100px 150px;
+}
+.banner-taitle{
+    font-size: 50px;
+    margin: 0px 10px 10px 0px;
+}
+.banner-parahgrap{
+
+    margin: 15px 5px 15px 0px;
+    font-size: 18px;
+}
+.banner-pic{
+ align-items: center;
+ margin: 50px 20px 0px 20px;
+ margin-bottom: 0px;
+ color:rgba(152, 44, 68, 0.1) ;
+
+}
+
+.banner-btn{
+    background-color: rgb(234, 109, 64);
+    font-size: 30px;
+    color: white;
+
+}
