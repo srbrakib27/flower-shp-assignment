@@ -44,3 +44,52 @@ justify-content: space-between;
     color: white;
 
 }
+/* our feature flower section*/
+
+
+.head-taitle{
+
+text-align: center;
+margin: 100px 0px 10px 0px;
+
+}
+
+.Featured-contend{
+
+    display: flex;
+    align-items: center;
+    margin: 40px 0px 40px 0px;
+    padding: 20px 20px 20px 20px;
+    justify-content: center;
+    background-color: beige;
+
+}
+
+.flower-taitle{
+
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+   
+}
+.Featured-pic{
+
+align-items: center;
+justify-content: center;
+
+
+}
+
+.head-taitle1{
+
+    text-align: center;
+    font-size: 16px;
+}
+
+/* unnon sesion*/
+.unnon{
+    display: flex;
+    justify-content: center;
+    margin: 30px 30px 30px 30px ;
+}
+
+
